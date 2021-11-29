@@ -1,0 +1,40 @@
+.heading {
+    background: yellow;
+    color: black;
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    border-radius: 25px;
+    font-family: 'Hind', sans-serif;
+}
+
+.note {
+    font-size: 15px;
+    color: brown;
+}
+
+body {
+    background-size: cover;
+}
+
+#song_name{
+    font-size: 23px;
+    margin: 15px;
+   
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: yellow;
+    color: purple;
+    line-height: 2;
+}
+
+canvas{
+    background-color: yellowgreen;
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px purple;   
+}
